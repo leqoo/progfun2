@@ -1,0 +1,10 @@
+test
+last test:test
+ cd /home/ku/IdeaProjects/example/src/test/scala/example
+test
+compile
+test
+submit kucarik@i.ua zoTA8F27P7UgVlEr
+test
+submit kucarik@i.ua zoTA8F27P7UgVlEr
+exit
